@@ -21,6 +21,12 @@ Open the application in your browser.
 Use the search bar to find robots by their names.
 Scroll through the list to view all available robots.
 
+## Live Demo
+
+[Click here to view the live app](## Live Demo
+
+[Click here to view the live app](https://samhitamahe.github.io/robo-friends-app))
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
