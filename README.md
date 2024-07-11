@@ -1,3 +1,26 @@
+Robo Friends
+
+Robo Friends is an interactive web application that displays a list of robot cards with their names and email addresses. Built using JavaScript, CSS, HTML, and React, this app allows users to search through the cards to find robots by name. The application features a scrolling interface and dynamically renders the list of robots as you type in the search bar.
+
+Features
+
+Interactive Search: Start typing in the search bar, and the app will dynamically filter and display only the robots whose names match the input.
+Dynamic Rendering: The list of robots updates in real-time as you type, providing a seamless and responsive user experience.
+Scroll Functionality: The app includes a scrollable interface to easily navigate through the list of robots.
+
+Technologies Used
+
+JavaScript: For the application logic and functionality.
+CSS: For styling the components and layout.
+HTML: For the structure of the web page.
+React: For building the user interface and managing the state of the application.
+
+Usage
+
+Open the application in your browser.
+Use the search bar to find robots by their names.
+Scroll through the list to view all available robots.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
